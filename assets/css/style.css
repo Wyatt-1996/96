@@ -3,6 +3,11 @@
     margin-left: 3px;
 }
 
+#logo {
+    width: 60px;
+    margin-left: 6px;
+}
+
 .menu {
     text-align: center;
 }
